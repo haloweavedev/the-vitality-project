@@ -1,0 +1,268 @@
+00:01 Alright, let's go through the whole thing. Okay, so when you sign 
+in, you are going to sign in by tier.
+00:10 Um, so let's say they pick a plan that is up to five employees. It's 
+a once a year membership fee.
+00:18 Um, we need them to be able to add their own employees and managers 
+to the account and label them by which they are and that will give them 
+access to what they are.
+00:30 And when they hit their max of six, five people, it'll say, hey, to 
+add one more person, you need to upgrade your account.
+00:38 And it can do that. If they are a school or a teacher, it would be 
+great if the school could make an account, and then the owner of the 
+school or the director of the school can then add a few.
+00:50 We call them vitality ambassadors. They could add a few of their 
+ambassadors to the account, because they don't really need I guess they do 
+need all their teachers in there they would have owner directors 
+ambassadors and then teachers and then we could tag what they get access 
+to okay so come in to make
+01:07 an account what this is like it's kind of like a course ish so they 
+would first start in a section maybe there's icons or however you want to 
+look it would say start here start here would have a welcome video and a 
+welcome letter and an onboarding checklist this is for the owner and spa 
+side not the 
+01:25 school side um most of this is for owners by the way and this tool 
+helps them implement it with their staff, so.
+01:35 for employee and workplace wellness they would need to make a 
+profile and that would link automatically to the directory and I'd like it 
+they could see a directory and they could search you know maybe by type of 
+salon or spa, uhm, part of the world we have this will be a worldwide 
+thing as well we will
+01:52 have to have people choose their main language in the beginning, 
+uhm, we'll start with English but later we're going to have to have 
+multiple languages, uhm, they'll fill out the form so there will be a form 
+they need to fill out, uhm, and we just would want it embedded, uhm, and 
+then we have a glossary
+02:07 so they can understand like terms and conditions, like terms we 
+might say like words, like what is a vitality pod, what's an ambassador, 
+uhm, how to, I would have, each of these will a video, how to utilize the 
+community portal, so an area where they can be in community with different 
+channels for talking
+02:22 in different topics. Ideally, they could also have a private DM 
+group with just their staff. That would be amazing, and in an ideal world, 
+uhm, when people start, it can trigger some sort of AI automation where, 
+I'll go through this in a little bit, but every month there's a different 
+focus, and if we
+02:40 could have things that go out to the group and then go out to their, 
+their chats, that would be great.
+02:45 We We could also just do the group if we have to, and that works 
+fine, too, honestly. And the group we would need to have, it's just owners 
+and managers, but if, for those private DM groups, we can't have automated 
+things, we could just have a group that has everyone's salon team, and 
+they could get 
+03:03 those automated prompts for every month when our focus has changed. 
+Uhm, I would have a video that shows them how to use the platform, and we 
+have, like, six pillars that we would explain, so we might have a chart or 
+something.
+03:17 How to add their leadership team. So owner, leadership team, and 
+their team would be the three tasks. Uhm, then we'd teach them how to get 
+connected with their success manager.
+03:27 We're making a clone of me, like an AI clone. This would be 
+Elisabot. It's a phone number that they can text and chat.
+03:34 It would be great, too, to have some sort of embedded, you know, 
+like, a really good chat bot, uhm, that has ability to use ChatGBT, so it 
+can, like, really answer a lot of questions, and we could train this bot 
+to know our whole program, and it could be, like, there for FAQ and help 
+and all the things
+03:49 . Understanding Terms and Conditions. So they're kind of like each 
+little module is a little bit of videos and stuff. Uhm, then when they're 
+done, this would be, like, perfect.
+03:58 You need to move in to get set up. So the segments are start here, 
+set up, 90 Days to Success, sustain, and then we have support.
+04:08 But anyways, then they move in to get set up. So this is the 
+onboarding for the owner. Then they're gonna onboard their team.
+04:14 So the owner needs to get onboarded. So his first video would be, 
+like, 90 Days to Success video. Have a workbook here.
+04:20 I would give a tour of the platform in this video, talk about how 
+we're using AI, and that they're gonna have to do all these things.
+04:26 Uhm, then we'd have another video that is just about the program and 
+it shows everything included in their program. There would be another 
+video, so it's like another module, about paths.
+04:36 And it would have the three paths that they can take to integrate 
+this into their workplace and company. So we have, like, Engage, Ignite, 
+and Power.
+04:45 It would be cool if there was some little, like, I don't know what 
+we could do in the app, like a little badge comes up.
+04:51 Or something, like whatever path you end up choosing, or take a 
+little quiz and you do it. I don't know what, what we're able to 
+integrate, but these paths talk about what qualifies you for each path.
+05:01 And then they follow a different plan based on their, blah, based on 
+their path. Uhm, we all have a little video about how to soft launch, 
+that's simple and easy.
+05:10 Choose a communication channel, I'm hoping the communication channel 
+is us and our app. And we're like, hey, be in the community group for 
+owners and leaders.
+05:18 Hey, you know, here's some segmented channels for different things. 
+Uhm, hey, you know, make a group DM for your team only.
+05:26 And maybe there's like one channel that's just everyone and that's 
+where all the monthly challenges and updates go. So everyone, cause 
+everyone is on this, every month there's a theme that they're going 
+through, uhm, for wellness, for the wellness program.
+05:39 Uhm, then they need to plan and schedule their employee kickoff. So 
+this is when they're then onboarding their team. And FAQ.
+05:47 It would be cool if based on, Well, hold on. Uhm, just kidding. I 
+skipped a few. The next module would be about vitality champion and 
+choosing their champion.
+06:00 So this is someone who's going to be like an ambassador for them. It 
+would be cool if there was like a little icon or something that they could 
+have, like a trophy or something next to their name.
+06:08 Like they can label their team, leadership team, their champion and 
+owner. So people know who the champions are and we could even have a chat 
+just for champions.
+06:16 But, Then we'll have a module about how to create a vitality pod, 
+which is like a wellness space in your business, and we have all these 
+options on how to make your space.
+06:25 It would even be cool to have a channel where people could like 
+share their pods or, you know, pictures or whatever.
+06:30 But, uhm, review the incentives. So we have a bunch of wellness 
+employee incentives. Uhm, just as ideas, so it could be like a PDF, maybe 
+they could mark things as like ideas they like.
+06:42 I don't know if it's like, if that could feel kind of notion-y where 
+you can like, you know, click things or feel like save it for later ideas 
+or whatever.
+06:51 Uhm, and then planning and scheduling your employee kickoff. So, 
+ideally, they pick their path. And it would be really cool if, uhm, it 
+could almost, well, I'll get in that way, but thank you.
+07:10 So, now they know how to use the program, they've picked a champion, 
+decided on their incentives, their pod, they've decided to do what the 
+date is to do a kickoff.
+07:20 It would be cool if they could almost have, like, a calendar for 
+their own self, that they could pick a kickoff date.
+07:28 Uhm, and then once they decide their kickoff date, it would upload, 
+you know, the path, because the path is 90 days.
+07:37 So, it's about 30 days for them to get on board for themselves, and 
+then it's 90 days to train your team, and then you go into maintenance 
+mode.
+07:43 So it'd be cool if they could like pick a date, and it would upload 
+on their own little private calendar.
+07:47 I don't know if that's an option, but that would be badass. Okay. We 
+have all these. Those are all modules.
+07:55 Okay, 90 days to success. Uhm, here, they're gonna have each of 
+their paths. So, Ignite, Engage, Empower. It's a 90-day plan on how to 
+train your team.
+08:05 So, there's 14 things to train them on. So, 90 days gives you a 
+kickoff week, a closing week, and then one thing a week.
+08:10 Uhm, we have the path Ignite, Engage, Empower, based on how hands-on 
+you are with your employees. It'd be cool if they could, like, choose 
+their kickoff date, and it would upload in their calendar immediately, and 
+they could, like, move things around, and they could see their, like, 
+90-day, you know,
+08:24 thing. and whether they invite their team to it or it connects with 
+Google Calendar, I don't know. Uhm, the next thing we talk about, why it's 
+important to measure success and benchmarks.
+08:37 So, I'd love for there to be, like, this dashboard where people can 
+see their progress. NYC people, I mean, the owners and leaders and 
+vitality champions can see the dashboard of, like, you know, success.
+08:50 You finished that up. Success, you finished, uhm, you know, your 90 
+days to success. When they have a new employee, it'll say, need to do 
+90-day training, you know, to show what month they're on, things that are 
+going well.
+09:04 But we want to have something called vital checks. So vital checks 
+are basically surveys and assessments that we want them to take a 
+different point.
+09:11 So the owner takes a 6-1-1 boarding. Uhm, the beginning of the 90 
+days to success, we'll have everyone take one, and at the end, we'll have 
+everyone on the team take one.
+09:19 And then once a year, they'll all take one. We'd like these to be 
+uploaded to be able to benchmark and have, like, OKRs and measurements of, 
+like, how, uhm, performance, things, how we're perceiving things better to 
+show that this is actually working.
+09:32 Uhm, and so, you know, if there's any way to measure things like 
+retention, recruitment, burnout rates, fulfillment, workplace wellness, 
+happiness, any OPRs we can show, I'd be really amazing.
+09:48 And if when these reports come back once a year, we could send a, 
+suggestions something, you know, whatever we want to call it, a vital 
+check, uhm, whatever we want to call it, and it has some areas that 
+they're doing really good in and celebrates them, some areas that may be 
+challenges or conflicts,
+10:08 and maybe some areas for, uhm, improvement, and we could measure 
+some of these things to be able to show them, uhm, in these areas, like, 
+how they're doing.
+10:17 We also have these six pillars that we talk about. Up here, 
+coaching, leadership, team building, culture, innovation. Uhm, the 
+questions follow the pillars, so we could even, like, have statistics for 
+pillars and different things, uhm, so that would be, you know, great to 
+have these anonymous, like, 
+10:37 people fill out the forms, they're tagged under their salon owner, 
+and then when they're all in, it can shoot them the data in a way that 
+just goes to the owner, uhm, or the leadership team, and then they can 
+have a dashboard or just, like, kind of all the things overall all the 
+time that only the owners
+10:52 see, and their leadership team. Uhm, we'll have a module about the 
+90 days to hire the new person. So when they add someone, it'd be cool to 
+see on their dashboard or calendar, they might be like, OK, need to start.
+11:05 Another 90 days to success like a person, and you could assign the 
+vitality champion to it. This would be, like, the dream, right?
+11:13 OK. Sustain is, like, great. We've onboarded. Now we're just in 
+maintenance mode. So maintenance mode, there's 14 modules to this 
+training.
+11:21 We're condensing it to 12, so there'll be two and two of them. So 
+it's every year, and it's just going to January, February, like, go like 
+this.
+11:27 And so people will just hop in wherever they are. That way everyone 
+is every month on the same page. So there's a training every month, and 
+then there's different ways based on their path ignited.
+11:36 How they can engage their employees and have these things be part of 
+their company culture and conversations and prompts. So we'd love to 
+ideally, whether they're an Engage Ignite or Empower, have automated 
+prompts that kind of either go out to the owners or to the whole team.
+11:53 You know, as questions, uhm, to help. But what would be great is 
+just f****** automate all this, you know. and it's the same every time.
+12:03 We don't have to email and this, like everything can live through 
+the app. We'll have some meeting templates for them and then they're gonna 
+have the actual program which we'll get to.
+12:15 And then we'll have retreats. We'd love to be able to host digital 
+retreats. We do this through an app right now, uhm, where we have a little 
+app.
+12:22 But it'd be great, this could be a private area in our app where, 
+uhm, we can gamify things. And maybe we use the community chat we already 
+have and we just make an extra channel that's private only for retreat 
+people.
+12:35 Uhm, but we have like, it's like a little leaderboard and stuff we 
+could do, which would be cool in our app all the time.
+12:42 But anyways, we do videos, and we literally teach a live retreat, 
+and it's great. But this will be paid for, so it'd be great if there was 
+an app that they could, once a year, we're like, hey, we're doing another 
+vitality retreat.
+12:55 Buy passes for your employees, and they have to register by how many 
+people on their team, but we need to just know what's on their account.
+13:01 So if they have 10 people registered on their account, they can't 
+buy five. They have to buy for everyone. And so based on their tier, you 
+know, maybe they pay for something.
+13:11 I don't know. And then, then it goes into the support section. 
+Support, again, this is all for owners only, all of this.
+13:19 Owners and their leadership team. This would have, every other month 
+we're going to do like Zoom calls, so the replays would live there in the 
+calendar for the future.
+13:28 And reminders. Our customer service bot, which hopefully is in the 
+corner. Um, and then any additional tools, like we're selling like posters 
+and printables and mugs and things that they can have for wellness.
+13:40 We have a Shopify store that's on demand stuff. If we could just 
+integrate our Shopify, that'd be even better. Um, and then the program, 
+and this is what the team will see.
+13:51 So the team will see the actual program, which is 14 lessons. I'll 
+probably put into 12 modules. It has workbooks and like homework with each 
+one.
+14:00 Maybe we do have the group chat, like I was saying, a certain area 
+where the team can be. They'll be on it and there's prompts, a directory 
+they can see.
+14:06 And then we have what's like, I would like to be like a calm app. 
+Um, like meditations, visualizations, little workout, you know, things 
+right now, we're just using hello audio, but it would be great if vitality 
+on demand could be a segment within our software that only people can see 
+if we give them
+14:24 access to that. The problem with this is this would be great if 
+within our app vitality project Vitality on Demand could be in this and 
+students can have access teachers because we send everyone to hello audio 
+I'm hoping this doesn't need to be a separate meditation app you know what 
+I mean if it does
+14:45 fine but it really would be f****** nice we could all be in one and 
+yep that's it so it's kind of like the program right they have their their 
+meditations and this and that and then if we had a teacher section really 
+what we'd want for teachers is Vitality On Demand, chat and directory, 
+like maybe a 
+15:16 community chat, uhm, possibly and we'd love to have like the 
+VitalCheck wellness assessments, uhm, that teachers can take and owners 
+will get like reports and progress, like a dashboard, uhm, in the future 
+we would like to have a certification that would be awesome for teachers 
+But, um, anyways, that
+15:47 is the vision, my friends.

@@ -1,0 +1,256 @@
+00:00 Alright, I want to share the full vision for the app. I mean, it's 
+the working vision, but okay, so the full vision is here.
+00:09 These are all the things we need to, like, actually run this program 
+is, I'm going to open up this document here that you will have access to, 
+is it'll have a platform.
+00:23 It'd be good for mobile and desktop. There's a sign-in. The sign-in 
+needs to have by tier because they are, it's an employee workplace.
+00:30 Program, meaning they have 10 employees. They add an 11th person. It 
+needs to upgrade their plan. Um, they need to be able to manually add 
+their own team, like an invite that they can sign up and make a profile.
+00:42 Um, there needs to be some sort of community area and all these 
+things don't have to be in the app for now, but like I'm sharing 
+everything that has to happen for this.
+00:49 So we're envisioning a tool whether it is all in the app or separate 
+or whatever, we might have to start differently.
+00:55 a directory where we can see both salons and spas and schools. We 
+want to have integrated bots where people have chatbots to help them, a 
+clone of me in there to help them.
+01:09 We're going to use Delphi for this, most likely. I think that's how 
+you spell it. Here you go. Their chatbot is great.
+01:26 It's of their owner, you can chat with it and then you can make a 
+clone where someone can call and text it.
+01:30 And stuff. So we need to be able to make the onboarding process, um, 
+easier. Okay. Back to that, um, report.
+01:42 So a lot of good wellness programs are very much assessment driven. 
+They're like basically really good surveys and assessments that give you 
+progress reports and data on your teams.
+01:51 You have like OKRs to show what's performing well and what's not. So 
+like a progress dashboard, a self-care dashboard kind of showing you where 
+you're at.
+02:02 Vitality On Demand we currently are using in Hello Audio. So that is 
+like basically a secret podcast and it's kind of like a calm app where 
+there's meditations, visualizations, but it's just all audios right now.
+02:18 So it's very simple. Um, they can listen to it in an airplane or 
+whatever, cause it can be offline. Um, we do need to be able to have where 
+we can have videos and audios be cool if they could get like like a 
+self-care progress report and like little reminders and stuff to help with 
+their self-care, but,
+02:37 and then there's actual education. So our wellness program is an 
+education-based program. So it's education that they integrate either into 
+their school for their teachers and students or wellness education for 
+their employees and the owner that becomes part of the company culture.
+02:51 The tool itself becomes the surveys, the on-demand, the progress 
+reports, um, things like that. The community becomes this thing that 
+connects them.
+03:01 Those are really, um, the, the features we're calling our progress 
+reports vital checks. We also need to have some form of way that people 
+are segmented on different types of people.
+03:12 They're a teacher, a student, et cetera, because they see different 
+things. So, you know, long-term, this is our program. This is our 
+education program where an owner, so teachers go through a different 
+process, an owner logs in and they have to go through different 
+categories.
+03:26 So, we have get set up, there's get started, which is start here, 
+which is like make your profile, do the things, fill out your form, learn 
+about the glossary, get in the community, download your Elizabeth, get set 
+up, this is where they start picking their path, what would be cool 
+long-term in the app
+03:43 is when they pick their path, if they're like building and answering 
+these things, it like builds a dashboard for them of like, okay, you chose 
+this path, you assigned a vitality champion, that's someone in their team 
+to help them, like, and it's kind of like building this dashboard where 
+they could 
+03:56 see all this information, that would be incredible to kind of create 
+their custom wellness plan for their company, uhm, so this is like 
+onboarding themselves, uhm, they're picking their team incentives for 
+wellness, and then 90 days to success is how they onboard their team, so 
+we have a path that they
+04:14 do it through, uhm, and then they go through the actual education, 
+so what we're thinking to make life easy for now, is that we're gonna host 
+this education in Kajabi, and we're gonna have this onboarding process, 
+and the live calls for the owners, we're gonna have a separate portal that 
+has just the
+04:33 program, which is what the employees and everyone sees. Long term, 
+it would be really nice to have this in one app, where they don't have to 
+go to multiple places, uhm, my other video, which you should watch at the 
+bottom, explains all this in great detail, because it's important that 
+whoever builds 
+04:48 this understands our vision, and all of it can be built in a way 
+that is the most time, money, efficient, all the things.
+04:56 What I'm thinking for a is we put the program, so we have two Kajabi 
+portals. One is the start here that gets set up, basically learn your 
+path, all the things in Kajabi.
+05:12 Um, we have a second portal that's the actual program that the 
+employees and everyone can see. Um, and it's fully in Kajabi, all the 
+things.
+05:21 The app becomes Vitality Project on Demand, and this becomes the 
+tool that supports the education. They need to integrate though in a few 
+ways.
+05:30 So, So, . . My idea of this is it's gonna be cheaper for us to start 
+by a landslide. Um, and we get what we need to get up off the ground, and 
+make sure this concept works.
+05:44 So what we would have to have is when someone signs up, it 
+automatically sends them to the app. Some-some how this app has a login, 
+and we know their tier.
+05:53 So they are tiered, I bought 10 employees, I bought 15 employees, 
+whatever. They need to then be able to send a way to invite Right.
+06:01 Their team, even it's just a link, to be added to the account where 
+we know they're all underneath that one salon.
+06:08 What we want to do is be able to have a QR code or a poster that 
+people can print out in their business and be like, welcome vitality 
+project, we're becoming, you know, a vitality project business, like scan 
+the QR code and they become, like this and they get sent here, or you can 
+like send a link kind
+06:22 of like WhatsApp or whatever and like, you know, he can be like, 
+join me in a chat. There also needs to be a language setting because in 
+the near future as the next year, we're gonna have to be able to **** to 
+know their language and we need to be able to have the app, everything 
+that's already in the
+06:36 app to be in that language. Uhm, we, including the bot. Uhm, we also 
+need to have this automatically grant access to them to Kajabi, whether 
+that's a Zapier or some sort of connection where when someone signs up, we 
+know they're an owner, they've assigned their vitality champion, which is 
+their leadership
+06:56 team, so they get access to the one Kajabi account that has all the 
+onboarding and the owners stuff. And the program, which is the second 
+Kajabi.
+07:04 If they're a team member and they're marked as a team member, they 
+need to get zapped over to get Kajabi access just to the program.
+07:11 So we need that all automated, where it's connected to the app 
+somehow, they add their account and it zaps them over.
+07:17 So if we're not having everything in app right now to save money, it 
+at least needs to do that feature.
+07:22 Uhm, I would love it if everyone could make a profile and there was 
+a directory. Uhm, I'm hoping that not too hard or expensive and we can 
+just plug into something.
+07:31 thing. That, um, and people could like search the directory. Even 
+better if they could DM people, right? But, um, yeah, can they DM?
+07:41 Can they do groups? Is that that expensive to add in? Is that a lot 
+more work? Uhm, okay, so the things that are important here are the 
+account and the tier.
+07:49 Uhm, I like to think the directory is important. We also could have 
+the directory automatically connect to something on our website.
+07:57 Uhm, if there's a way to like zap all the people in there and we 
+just have like a big directory.
+08:01 You're on our website and it's a public page and it's just like 
+somehow goes into some CRM and it's whatever, like connected by what type, 
+like who's an owner and who's in school and it like auto populates.
+08:14 That, that might even be better to have the directory. Uhm, there. 
+Or both. I, I just, it basically comes down to cost.
+08:21 Uhm, vital check. So this is the survey. This is where I gave you 
+some examples of like work leap, culture app, work human.
+08:29 All these workplace wellness programs are really survey based. and 
+stay safe. It's actually, they don't really have any education. So they 
+lack in education and they lack in community.
+08:36 And so really wellness programs are like a comm app or they're like 
+a survey app. We're really different because we know that teaching people 
+how to be well and giving them experience based education for wellness is 
+actually what's going to move the needle for them to want to fill out the 
+f****** surveys
+08:49 to get results in the surveys. Excuse my crunch and actually use the 
+on demand things. So, um, again, it creates multiple things that we're 
+doing, but they all work together.
+09:00 So, the Edel checks are basically the surveys that are super 
+important. Um, somehow we have to connect once someone's gone through a 
+certain amount of content in Kajabi, they need to be on a track.
+09:16 Like once they sign up because we have a survey they get when they 
+sign up. Um, 30 days later, uh, 90 days later and then it's once a year 
+and they get different surveys if they're an owner, a champion, which is 
+like the right hand to the owner or a team member.
+09:31 And so we just, just need to like, whatever we need to do on the 
+back end where those things are happening.
+09:36 Um, the owner and whoever the leadership team needs to have like a 
+progress dashboard where they can see the results, they can get 
+recommendations for their team.
+09:44 It'd be really cool to have like almost some like train chat GBT bot 
+that knows our content that could give them suggestions based on different 
+things, almost like quits like like, hey, because these things, you know, 
+are lower on your team, here's some suggestions, like if you need more 
+help, you know
+10:00 , ask away or whatever. forever. Um, but I think the progress report 
+is huge. It needs to have charts, those need to auto-populate, they need 
+to be basically like OKRs that we can prove that they're getting results 
+and show them areas.
+10:12 Um, we also have this idea of something called HSLs. And so in HSLs, 
+a heard scene in Loved, it's a concept that we do in our company where you 
+basically acknowledge someone publicly and celebrate them.
+10:23 And so we talk about a culture of celebration and making people feel 
+heard, seen in Loved. It'd be cool to have some sort of team leaderboard 
+where they could send HSLs.
+10:29 Um, um, you know, and the team could see or, so that, that's 
+something I'd be curious what we could do with.
+10:38 That's something we could add later. But, um, anyways. And it's also 
+something we could track like how heard scene in Loved you feel in the 
+team.
+10:47 You know what I mean? Um, and then, you know, they could send more 
+HSLs basically. Vitality on demand is kind of like a column app.
+10:54 Um, the Brighton app, I think is a really good example actually. I'm 
+like obsessed with that. Um, and what I like like about that app as well 
+as there's like on demand tools for things, but there's also like the AI 
+feature of, um, calm is a good example as well too.
+11:15 But Brighton, I liked a lot. Like, how are you feeling today is 
+right there. Um, and there's AI prompt and you can pick between, it says 
+health, wealth, gratitude, reflect goals.
+11:30 So, So, after a minute, and it's using AI to be like right in 
+affirmation to express gratitude and like, anyways, you can journal.
+11:39 So, I love that. It's like a self-help tool. Um, so it'd be cool if 
+we could have the on demand where we have all our breath works, our 
+meditation, some of our movement videos.
+11:49 And it'd be cool if you got your own progress report of like, um, 
+you know, how you are with self-care and like it had some of these 
+features where you could journal, make affirmations, set goals, like 
+little things like that.
+11:59 I have tools that we actually have a custom planner that we could 
+take. Some of those tools and create something simple.
+12:04 Um, yes. And then an announcement's only place where if we could 
+only have certain people view that. So I think the like dire things that 
+would need to happen to have this app off the floor would be tears and 
+adding teams.
+12:23 Um, organize communication and guidance of the app being really 
+intuitive and guiding you through the process. Um, so the, um, having, 
+whether that's our AI chatbot, prompts, things like that.
+12:37 The on demand library being super easy to search by symptoms or how 
+you're feeling. Um, that interactive AI feature where they can like, um, 
+journal prompt or take notes or get affirmations or whatever.
+12:51 I'm obsessed with that. And then assessments and progress reports. 
+So they can see how their own self care is doing.
+12:57 And these are reports that the owners are getting with suggestions. 
+I think that that's huge. I think nice step, and then, and then I need to 
+have, is it automatically connects if a job being gives them access to 
+things.
+13:08 Um, and then one chat place in the app where we can talk directly to 
+owners. I need to have also is differentiating if they, cause what we're 
+gonna have is owners on their team.
+13:20 Schools, their teachers and their students. And so we have to 
+segment who sees what. And so we only want obviously the owners of schools 
+and stuff to get these, like, progress reports on everyone.
+13:31 And different people get different surveys. survey. So just, you 
+know, that being segmented tagged, whatever, where they're viewing is a 
+little different.
+13:37 Um, that's what would have to happen for this to be just a tool and 
+have all the education somewhere else.
+13:43 Um, things that'd be nice to have is a directory. Uhm, and probably 
+all the education in here, you know, but the HSLs would be a nice to have 
+two the Hertzina loves like leaderboard.
+13:56 Um, but I think if there is the, the other nice to have would be, 
+uh, when people go through the onboarding, like as an owner or a school, 
+they're basically picking, this is my Vitality Champion.
+14:09 These are my goals. This is this. Um, it would be cool if it, in 
+their progress report had something that was like, this is a custom 
+wellness plan for you.
+14:19 Like, this is where you're at. If we could build that into the 
+progress reports, that would be really nice. So, that's the tool without 
+having like all the community and all the education in there, which I 
+don't, I know gets a little more complicated, so we would call this at 
+Vitality.
+14:31 I'm talk a Vitality on Demand, um, and we would do our digital 
+events and our education in separate portals, but in the future, it would 
+be nice to have everything in one spot.
+14:42 You know what I mean? Um, so that's kind of the simplify. I've been 
+trying to simplify this to just be, and I think like, brighten as the best 
+example if it had surveys.
+14:54 If it had surveys and a wellness plan, um, for you. So it was kind 
+of like, um, . Like, work leap or one of these had a baby with brighten 
+and column.
+15:09 They kind of, umm, meshed.
